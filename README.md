@@ -1,4 +1,4 @@
-# Custom Patcher
+# Custom Patcher 2.207 Edition
 Allow you change the:
 - count of fonts
 - count of backgrounds
@@ -21,11 +21,12 @@ Allow you change the:
 - unlock check function to unlock new icons
 - unlock check function to unlock all icons
 
-FEEL FUCKING FREE DO CREATE ISSUES ON REPO pls
-who talks about it in the fucking nowhere is a nit, really hate them
+FEEL FREE DO CREATE ISSUES ON REPO pls
+Who knows! It's like ports
 
-## [BIG ISSUES LINK FOR YOU HERE](https://github.com/user95401/CustomPatcher/issues)
+## [BIG ISSUES LINK](https://github.com/user95401/CustomPatcher/issues)
 
 ### [BIG RESOURCEPACK EXAMPLE LINK)](https://github.com/user95401/CustomPatcher/raw/main/TestPack\(uhd\).zip)
 
+\- Original fork from [ThatBlackAstronaut](https://github.com/ThatBlackAstronaut/CustomPatcher), [user95401's original fork](https://github.com/user95401/CustomPatcher)
 \- patches founded by [zGuschin](https://t.me/guschinpublic), [user95401's original](https://github.com/user95401/TexturePatcher)
