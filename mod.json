@@ -7,8 +7,8 @@
 		"ios": "2.2074"
 	},
 	"version": "v0.0.0-beta.3",
-	"id": "user95401.custom_patcher",
-	"name": "Custom Patcher",
+	"id": "roadhogstudios.custom_patcher2207",
+	"name": "Custom Patcher 2.207",
 	"developers": [ "zGuschin", "user95401" ],
 	"description": "Change count of Fonts, Grounds, BGs, Icons, in Geometry Dash 2.206",
 	"early-load": true,
