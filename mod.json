@@ -12,7 +12,7 @@
 	"developers": [ "zGuschin", "user95401", "ThatBlackAstronaut", "RoadHogStudios" ],
 	"description": "Change count of Fonts, Grounds, BGs, Icons, in Geometry Dash 2.207",
 	"early-load": true,
-	"repository": "https://github.com/user95401/CustomPatcher",
+	"repository": "https://github.com/Arrhythmiagamer23/CustomPatcher2207",
 	"settings": {
 		"Fonts": {
 			"name": "                  Fonts",
