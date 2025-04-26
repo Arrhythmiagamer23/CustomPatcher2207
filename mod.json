@@ -9,8 +9,8 @@
 	"version": "v0.0.0-beta.3",
 	"id": "roadhogstudios.custom_patcher2207",
 	"name": "Custom Patcher 2.207",
-	"developers": [ "zGuschin", "user95401" ],
-	"description": "Change count of Fonts, Grounds, BGs, Icons, in Geometry Dash 2.206",
+	"developers": [ "zGuschin", "user95401", "ThatBlackAstronaut", "RoadHogStudios" ],
+	"description": "Change count of Fonts, Grounds, BGs, Icons, in Geometry Dash 2.207",
 	"early-load": true,
 	"repository": "https://github.com/user95401/CustomPatcher",
 	"settings": {
@@ -59,7 +59,7 @@
 			"description": "max count of",
 			"type": "int",
 			"max": 900,
-			"default": 484,
+			"default": 485,
 			"control": { "slider": false }
 		},
 		"Ships": {
@@ -123,7 +123,7 @@
 			"description": "max count of",
 			"type": "int",
 			"max": 900,
-			"default": 5,
+			"default": 8,
 			"control": { "slider": false }
 		},
 		"DeathEffects": {
@@ -158,7 +158,7 @@
 		"UnlockAllIcons": {
 			"name": "        Unlock All Icons",
 			"type": "bool",
-			"default": false
+			"default": true
 		}
 	}
 }
